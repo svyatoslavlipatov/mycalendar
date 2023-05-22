@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Регистрация</title>
+    <title>Авторизация</title>
     <style>
         body {
             background-color: #f2f2f2;
