@@ -5,7 +5,7 @@ require_once 'database/db.php';
 
 class TaskController
 {
-    // Функция создания класса
+    // Функция создания задачи
     public function createTask($data) {
         $theme = $data['theme'];
         $user_id = $_SESSION['user_id'];
